@@ -42,4 +42,4 @@ This policy may be updated when the app changes. The effective date above will b
 
 For privacy questions, contact the app developer through the support page:
 
-https://github.com/Asun7505/gym-fix_lab/issues
+https://github.com/Asun7505/gymfixlab-legal/issues
