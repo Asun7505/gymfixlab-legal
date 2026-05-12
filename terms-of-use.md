@@ -46,5 +46,5 @@ These terms may be updated when the app changes. The effective date above will b
 ## Contact
 
 For support, contact the app developer through the support page:
-
-https://github.com/Asun7505/gym-fix_lab/issues
+[
+https://github.com/Asun7505/gymfixlab-legal/issues
