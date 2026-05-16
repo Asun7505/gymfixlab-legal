@@ -28,7 +28,7 @@ Subscriptions automatically renew unless canceled at least 24 hours before the e
 
 The permanent unlock is a one-time in-app purchase and does not automatically renew. Gym Fix Lab currently does not offer a free trial unless one is explicitly shown in the app before purchase.
 
-Pro access may include features such as deeper reports, backup export, iCloud sync, and expanded custom exercise capacity. Features may change as the app develops.
+Manual backup export and import may be available without Pro. Pro access may include features such as deeper reports, iCloud sync, and expanded custom exercise capacity. Features may change as the app develops.
 
 ## Data and Backups
 
