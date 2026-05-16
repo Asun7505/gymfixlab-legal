@@ -1,6 +1,6 @@
 # Gym Fix Lab Terms of Use
 
-Effective date: 2026-05-13
+Effective date: 2026-05-16
 
 These terms apply when you use Gym Fix Lab.
 
@@ -16,14 +16,17 @@ You are responsible for choosing exercises, loads, volume, and training decision
 
 ## Gym Fix Lab Pro
 
-Gym Fix Lab may offer auto-renewable Pro subscriptions, including:
+Gym Fix Lab may offer auto-renewable Pro subscriptions and a one-time permanent unlock, including:
 
 - Monthly Pro: `com.gymfixlab.pro.monthly`
-- Yearly Pro: `com.gymfixlab.pro.yearly`
+- Yearly Pro: `com.gymfixlab.pro.yearly.v2`
+- Permanent Unlock: `com.gymfixlab.pro.permanent`
 
-Subscription prices and billing periods are shown in the app before purchase. Payment is charged to your Apple ID through the App Store when you confirm a purchase.
+Prices and billing periods, where applicable, are shown in the app before purchase. Payment is charged to your Apple ID through the App Store when you confirm a purchase.
 
 Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing period. You can manage or cancel subscriptions in your Apple ID subscription settings.
+
+The permanent unlock is a one-time in-app purchase and does not automatically renew. Gym Fix Lab currently does not offer a free trial unless one is explicitly shown in the app before purchase.
 
 Pro access may include features such as deeper reports, backup export, iCloud sync, and expanded custom exercise capacity. Features may change as the app develops.
 
@@ -46,5 +49,5 @@ These terms may be updated when the app changes. The effective date above will b
 ## Contact
 
 For support, contact the app developer through the support page:
-[
+
 https://github.com/Asun7505/gymfixlab-legal/issues
