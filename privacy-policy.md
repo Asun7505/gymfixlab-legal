@@ -1,6 +1,6 @@
 # Gym Fix Lab Privacy Policy
 
-Effective date: 2026-05-13
+Effective date: 2026-05-16
 
 Gym Fix Lab is designed to keep your training data under your control. This policy explains what the app stores and how it is used.
 
@@ -18,7 +18,7 @@ Apple provides and operates iCloud. Your iCloud settings and Apple ID account co
 
 ## Purchases
 
-Gym Fix Lab Pro subscriptions are processed by Apple through the App Store. Gym Fix Lab can read App Store transaction status to unlock Pro features, but payment details are handled by Apple.
+Gym Fix Lab Pro subscriptions and permanent unlock purchases are processed by Apple through the App Store. Gym Fix Lab uses RevenueCat to validate purchase status and unlock Pro features, but payment details are handled by Apple.
 
 ## Tracking and Third Parties
 
